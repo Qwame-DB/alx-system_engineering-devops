@@ -1,2 +1,2 @@
 #!/bin/bash
---one-file-system test -name '*.js" -delete
+rm -R --one-file-system *.js
